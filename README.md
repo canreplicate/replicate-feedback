@@ -1,6 +1,6 @@
 # Replicate — Feedback & Issues
  
-Public issue tracker for **[Replicate](https://canreplicate.app)** — save and restore iOS Simulator app state as a single `.replica` file.
+Public issue tracker for **[Replicate](https://canreplicate.app)**
  
 ## Opening an issue
  
